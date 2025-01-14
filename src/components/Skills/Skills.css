@@ -1,0 +1,24 @@
+.about-skills {
+    background: rgba(255, 255, 255, 0.1);
+    padding: 20px;
+    margin: 40px;
+    border-radius: 10px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+    align-items: flex-end; 
+    align-content: space-between;
+  }
+  
+  .about-skills h3 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+  }
+  
+  .about-skills ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .about-skills li {
+    font-size: 1.2rem;
+    margin: 5px 0;
+  }

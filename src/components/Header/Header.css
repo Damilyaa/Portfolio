@@ -1,0 +1,21 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background: linear-gradient(to right, #770f47, #fe7bb2);    
+    color: white;
+  }
+  
+  .header-nav a {
+    margin: 0 27px;
+    color: white;
+    text-decoration: none;
+    transition: color 0.3s;
+    font-size:large;
+    /* text-decoration: underline; */
+  }
+  
+  .header-nav a:hover {
+    color: #9c0564;
+  }

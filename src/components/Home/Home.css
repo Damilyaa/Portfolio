@@ -1,0 +1,18 @@
+.home {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: linear-gradient(to right, #770f47, #fe7bb2);    
+    color: white;
+    text-align: center;
+  }
+  
+  .home-title {
+    font-size: 5rem;
+  }
+  
+  .home-subtitle {
+    font-size: 1.5rem;
+  }
