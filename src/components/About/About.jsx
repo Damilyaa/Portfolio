@@ -3,7 +3,7 @@ import './About.css';
 import { motion } from 'framer-motion';
 import Fd from '../Skills/Fd/Fd';
 import St from '../Skills/St/St';
-import Pl from '../Skills/Pl/pl';
+import Pl from '../Skills/Pl/Pl';
 import me from '../img/me.jpeg'; 
 
 const About = () => {
