@@ -18,6 +18,12 @@ const projectsData = [
     link: 'https://github.com/Damilyaa/To-Do-App/tree/main',
     image: portfolio,
   },
+  {
+    title: 'Trends analytics',
+    description: 'App for anylizing current and past trends',
+    link: 'https://github.com/Damilyaa/To-Do-App/tree/main',
+    image: portfolio,
+  },
 ];
 
 const Projects = () => {
